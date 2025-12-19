@@ -1,4 +1,5 @@
 📊 Customer Segmentation Analysis
+
 📌 Project Overview
 
 This project focuses on performing customer segmentation analysis for an e-commerce company using the iFood dataset. The goal is to group customers into meaningful segments based on their purchasing behavior and demographics, enabling better marketing strategies and business decisions.
@@ -53,10 +54,16 @@ Insights can help design targeted marketing campaigns and improve customer reten
 
 ifood_df.csv – Dataset
 
-customer_segmentation.ipynb / .py – Analysis code
+customer_segmentation_analysis.ipynb / .py – Analysis code
 
 README.md – Project documentation
 
 ✅ Conclusion
 
 This project demonstrates practical skills in data cleaning, clustering, visualization, and business insight generation, making it a strong example of real-world data analytics work.
+
+📌 Author
+
+Deepika
+
+Feel free to explore the notebook and insights!
